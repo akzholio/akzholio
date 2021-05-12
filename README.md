@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akzholio
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning NoSQL databases
-- 💞️ I’m looking to collaborate on some open source projects
+- 👀 I’m interested in Python and Data Engineering
+- 🌱 I’m currently learning Data Engineering
+- 💞️ I’m looking to collaborate on some projects as a Data Engineer
 - 📫 How to reach me: @akzholio
 
 <!---
